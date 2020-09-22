@@ -309,9 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/psistakis/public_html/
-    - /bin/cp -R * $DEPLOYPATH
