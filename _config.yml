@@ -84,9 +84,9 @@ author:
   avatar           : "psistakis_duomo_2018.png"
   bio              : "PhD Student"
   location         : "Heraklion, Crete, Greece"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         :  Univ. of Illinois at Urbana-Champaign
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "antonispsistakis"
+  #orcid            : "https://orcid.org/0000-0002-2273-3796"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AntonisPs"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/psistakis/public_html/
+    - /bin/cp -R * $DEPLOYPATH
