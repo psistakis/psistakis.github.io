@@ -20,4 +20,4 @@ I am a 1st year PhD student in Computer Science at the <a href="https://cs.illin
 
 My main research interests lie primarily in the area of Computer Architecture and Distributed Systems.
 
-The <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="_blank">CS Dpt (CSD), University of Crete (UOC)</a> is my alma mater, from which I received both my B.Sc. (2017) and my M.Sc. (2019) degrees. My origin is: Heraklion, Crete, Greece.
+My alma mater is the <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="_blank">CS Dpt (CSD), University of Crete (UOC)</a>, from which I received both my B.Sc. (2017) and my M.Sc. (2019) degrees in Computer Science. My origin is from Heraklion, Crete, Greece.
