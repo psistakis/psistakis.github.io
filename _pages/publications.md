@@ -23,7 +23,7 @@ author_profile: true
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
 Pantelis Xirouchakis, Vassilis Papaefstathiou, Manolis GH Katevenis. (2020). &quot;PART: Pinning Avoidance in RDMA Technologies&quot;.	<i>14th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2020)</i>.
 Paper: <a href="../files/publications/nocs20-paper.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/NOCS50636.2020.9241587" target="_blank">[DOI]</a>,
-Presentation: <a href="../files/publications/nocs20-slides.pdf" target="_blank">[PDF]</a>, <a href="https://youtu.be/E20mbAiL3EE" target="_blank">[YouTube link]</a>.
+Presentation: <a href="../files/publications/nocs20-slides.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>
