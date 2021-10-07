@@ -16,7 +16,7 @@ redirect_from:
 
 About me
 ======
-I am a 2nd year PhD student in Computer Science at <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>. I am also a member of the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">iacoma</a> group, led by <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+I am a 2nd year PhD student in Computer Science at <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>. I am also a member of the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group, led by <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
 
 My main research interests lie primarily in the area of Computer Architecture and Distributed Systems.
 
@@ -24,5 +24,6 @@ My alma mater is the <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" targ
 
 Latest news
 ======
-- <span style="color:blue">[August 2020] </span> Joined the <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">iacoma</a> group as a PhD student.
-- <span style="color:blue">[July 2020] </span> A paper was accepted at <a href="http://nocs2020.engr.uky.edu/" target="_blank">NOCS2020</a>.
+- <span style="color:blue">[July 2021] </span> A paper was accepted at <a href="https://www.microarch.org/micro54/" target="_blank">MICRO 2021</a>.
+- <span style="color:blue">[August 2020] </span> Joined the <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group as a PhD student.
+- <span style="color:blue">[July 2020] </span> A paper was accepted at <a href="https://nocs2020.engr.uky.edu/" target="_blank">NOCS 2020</a>.
