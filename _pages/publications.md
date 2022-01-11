@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> Apostolos Kokolis, <b>Antonis Psistakis</b>, Benjamin Reidys, Jian Huang, Josep Torrellas. (2021). &quot;Distributed Data Persistency&quot;.	<i>54th IEEE/ACM International Symposium on Microarchitecture (MICRO 2021)</i>.
-Paper: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/micro21.pdf" target="_blank">[PDF]</a>. <span style="color:blue">[Top Picks 2022]
+Paper: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/micro21.pdf" target="_blank">[PDF]</a>. <span style="color:blue">[Top Picks 2022]</span>
 </li>
   
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
