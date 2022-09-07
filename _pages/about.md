@@ -24,7 +24,7 @@ My alma mater is the <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" targ
 
 Latest news
 ======
-- <span style="color:blue">[May 2022] </span> The extension of my MSc thesis was accepted at TPDS 2022. Please find it at the <a href="https://psistakis.cs.illinois.edu/publications/" target="_blank">Publications</a> section of this website.
+- <span style="color:blue">[May 2022] </span> An extension of my MSc thesis was accepted at TPDS 2022. Please find it at the <a href="https://psistakis.cs.illinois.edu/publications/" target="_blank">Publications</a> section of this website.
 - <span style="color:blue">[May 2022] </span> Joined NVIDIA as a Graduate Intern.
 - <span style="color:blue">[January 2022] </span> "Distributed Data Persistency" (MICRO 2021) was accepted as IEEE Top Picks in Computer Architecture 2022.
 - <span style="color:blue">[July 2021] </span> "Distributed Data Persistency" (DDP) was accepted at <a href="https://www.microarch.org/micro54/" target="_blank">MICRO 2021</a>.
