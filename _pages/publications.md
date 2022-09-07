@@ -20,14 +20,19 @@ author_profile: true
 
 <ol reversed>
 
+<li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
+Pantelis Xirouchakis, Vassilis Papaefstathiou, Manolis GH Katevenis. (2022). &quot;Optimized Page Fault Handling during RDMA&quot;.	<i>IEEE Transactions on Parallel and Distributed Systems (TPDS 2022)</i>.
+Paper: <a href="../files/publications/tpds22-psistakis.pdf" target="_blank">[PDF]</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9779430" target="_blank">[DOI]</a>.
+</li>
+
 <li> Apostolos Kokolis, <b>Antonis Psistakis</b>, Benjamin Reidys, Jian Huang, Josep Torrellas. (2021). &quot;Distributed Data Persistency&quot;.	<i>54th IEEE/ACM International Symposium on Microarchitecture (MICRO 2021)</i>.
 Paper: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/micro21.pdf" target="_blank">[PDF]</a>. <span style="color:blue">[Top Picks 2022] </span>
 </li>
-  
+
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
 Pantelis Xirouchakis, Vassilis Papaefstathiou, Manolis GH Katevenis. (2020). &quot;PART: Pinning Avoidance in RDMA Technologies&quot;.	<i>14th IEEE/ACM International Symposium on Networks-on-Chip (NOCS 2020)</i>.
-Paper: <a href="../files/publications/nocs20-paper.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/NOCS50636.2020.9241587" target="_blank">[DOI]</a>,
-Presentation: <a href="../files/publications/nocs20-slides.pdf" target="_blank">[PDF]</a>.
+Paper: <a href="../files/publications/nocs20-psistakis.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/NOCS50636.2020.9241587" target="_blank">[DOI]</a>,
+Presentation: <a href="../files/publications/nocs20-psistakis-slides.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>

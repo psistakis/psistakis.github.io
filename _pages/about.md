@@ -16,7 +16,7 @@ redirect_from:
 
 About me
 ======
-I am a 2nd year PhD Candidate in Computer Science at <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>. I am also a member of the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group, led by <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+I am a 3rd year PhD Candidate in Computer Science at <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>. I am also a member of the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group, led by <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
 
 My main research interests lie primarily in the area of Computer Architecture and Distributed Systems.
 
@@ -24,8 +24,9 @@ My alma mater is the <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" targ
 
 Latest news
 ======
+- <span style="color:blue">[May 2022] </span> The extension of my MSc thesis was accepted at TPDS 2022. Please find it at the <a href="https://psistakis.cs.illinois.edu/publications/" target="_blank">Publications</a> section of this website.
 - <span style="color:blue">[May 2022] </span> Joined NVIDIA as a Graduate Intern.
-- <span style="color:blue">[January 2022] </span> "Distributed Data Persistency" (MICRO 2021) was accepted in IEEE Top Picks in Computer Architecture 2022.
+- <span style="color:blue">[January 2022] </span> "Distributed Data Persistency" (MICRO 2021) was accepted as IEEE Top Picks in Computer Architecture 2022.
 - <span style="color:blue">[July 2021] </span> "Distributed Data Persistency" (DDP) was accepted at <a href="https://www.microarch.org/micro54/" target="_blank">MICRO 2021</a>.
 - <span style="color:blue">[August 2020] </span> Joined the <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group as a PhD student.
 - <span style="color:blue">[July 2020] </span> "PART: Pinning Avoidance in RDMA Technologies" was accepted at <a href="https://nocs2020.engr.uky.edu/" target="_blank">NOCS 2020</a>.
