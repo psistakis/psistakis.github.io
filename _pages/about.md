@@ -20,7 +20,7 @@ I am PhD Candidate in Computer Science at <a href="https://cs.illinois.edu/" tar
 
 My main research interests lie primarily in the areas of Computer Architecture, Distributed Systems, and High-Performance Computing.
 
-My alma mater is the <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="_blank">CS Dpt (CSD), University of Crete (UOC)</a>, from which I received both my B.Sc. (2017) and my M.Sc. (2019) degrees in Computer Science. My origin is from Heraklion, Crete, Greece.
+My alma mater is <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="_blank">CSD, University of Crete (UOC)</a>, from which I received both my B.Sc. (2017) and my M.Sc. (2019) degrees in Computer Science. My origin is from Heraklion, Crete, Greece.
 
 Latest news
 ======
