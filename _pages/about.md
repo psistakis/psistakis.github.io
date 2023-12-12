@@ -28,6 +28,7 @@ Latest news
 - <span style="color:blue">[Aug 2023] </span> Paper accepted at SysDW 2023 Workshop (SOSP).
 - <span style="color:blue">[Feb 2023] </span> Invited talk at Intel.
 - <span style="color:blue">[May 2022] </span> Joined NVIDIA as a Graduate Intern.
+- <span style="color:blue">[May 2022] </span> Paper accepted at TPDS 2022.
 - <span style="color:blue">[Jan 2022] </span> "Distributed Data Persistency" (MICRO 2021) was accepted as IEEE Top Picks in Computer Architecture 2022.
 - <span style="color:blue">[Jul 2021] </span> "Distributed Data Persistency" (DDP) was accepted at <a href="https://www.microarch.org/micro54/" target="_blank">MICRO 2021</a>.
 - <span style="color:blue">[Aug 2020] </span> Joined the <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group as a PhD student.
