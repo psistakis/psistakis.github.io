@@ -19,7 +19,10 @@ author_profile: true
 ## Papers
 
 <ol reversed>
-
+<li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
+Protocol Implementation & Offloading to SmartNICs&quot;. <i>2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)</i>.
+Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca24_1.pdf" target="_blank">[PDF]</a>.
+</li>
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
 Pantelis Xirouchakis, Vassilis Papaefstathiou, Manolis GH Katevenis. (2022). &quot;Optimized Page Fault Handling during RDMA&quot;.	<i>IEEE Transactions on Parallel and Distributed Systems (TPDS 2022)</i>.
 Paper: <a href="../files/publications/tpds22-psistakis.pdf" target="_blank">[PDF]</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9779430" target="_blank">[DOI]</a>.
