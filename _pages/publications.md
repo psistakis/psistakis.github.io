@@ -20,7 +20,7 @@ author_profile: true
 
 <ol reversed>
 <li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
-Protocol Implementation & Offloading to SmartNICs&quot;. <i>2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)</i>.
+Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)</i>.
 Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca24_1.pdf" target="_blank">[PDF]</a>.
 </li>
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
