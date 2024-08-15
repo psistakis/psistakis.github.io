@@ -24,6 +24,8 @@ My alma mater is <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="
 
 Latest news
 ======
+- <span style="color:blue">[May 2024] </span> Joined Azure Research-Systems (Microsoft) as a Graduate Research Intern.
+- <span style="color:blue">[Mar 2024] </span> Paper accepted at ISCA 2024.
 - <span style="color:blue">[Oct 2023] </span> Paper accepted at HPCA 2024.
 - <span style="color:blue">[Aug 2023] </span> Paper accepted at SysDW 2023 Workshop (SOSP).
 - <span style="color:blue">[Feb 2023] </span> Invited talk at Intel.
