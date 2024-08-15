@@ -47,7 +47,8 @@ Presentation: <a href="../files/publications/psistakis-nocs20-slides.pdf" target
 </li>
 
 <li>
-Thomais Asvestopoulou, Victoria Manousaki, <b>Antonis Psistakis</b>, Erjona Nikolli, Vassilios Andreadakis, Ioannis M Aslanides, Yannis Pantazis, Ioannis Smyrnakis, Maria Papadopouli. (2019). &quot;Towards a robust and accurate screening tool for dyslexia with data augmentation using GANs&quot;. <i>2019 IEEE 19th International Conference on Bioinformatics and Bioengineering 2019 (BIBE 2019)</i>.
+Thomais Asvestopoulou, Victoria Manousaki, <b>Antonis Psistakis</b>, Erjona Nikolli, Vassilios Andreadakis, Ioannis M Aslanides, Yannis Pantazis, Ioannis Smyrnakis, Maria Papadopouli. (2019). &quot;Towards a robust and accurate screening tool for dyslexia with data augmentation using GANs&quot;. <i>19th IEEE International Conference on Bioinformatics and Bioengineering 2019 (BIBE 2019)</i>.
+Paper: <a href="https://projects.ics.forth.gr/neuronxnet/pdf/dyslexia_BIBE_2019_extended_version.pdf" target="_blank">[PDF]</a>.
 </li>
 
 </ol>
