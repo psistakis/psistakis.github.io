@@ -27,13 +27,13 @@ Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/isca24_1.pdf" target="_
 <li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
 Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture 2024 (HPCA 2024)</i>.
 <!-- Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca24_1.pdf" target="_blank">[PDF]</a>. -->
-Paper: <a href="../files/publications/psistakis-hpca24.pdf" target="_blank">[PDF]</a>,
+Paper: <a href="../files/publications/psistakis-hpca24.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/HPCA57654.2024.00076" target="_blank">[DOI]</a>,
 Presentation: <a href="../files/publications/psistakis-hpca24-slides.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li> <b>Antonis Psistakis</b>, Nikolaos Chrysos, Fabien Chaix, Marios Asiminakis, Michalis Gianioudis,
 Pantelis Xirouchakis, Vassilis Papaefstathiou, Manolis GH Katevenis. (2022). &quot;Optimized Page Fault Handling during RDMA&quot;.	<i>IEEE Transactions on Parallel and Distributed Systems 2022 (TPDS 2022)</i>.
-Paper: <a href="../files/publications/psistakis-tpds22.pdf" target="_blank">[PDF]</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9779430" target="_blank">[DOI]</a>.
+Paper: <a href="../files/publications/psistakis-tpds22.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/TPDS.2022.3175666" target="_blank">[DOI]</a>.
 </li>
 
 <li> Apostolos Kokolis, <b>Antonis Psistakis</b>, Benjamin Reidys, Jian Huang, Josep Torrellas. (2021). &quot;Distributed Data Persistency&quot;.	<i>54th IEEE/ACM International Symposium on Microarchitecture 2021 (MICRO 2021)</i>.
@@ -71,11 +71,11 @@ Manolis Ploumidis, <b>Antonis Psistakis</b>, Marios Asiminakis, Pantelis Xirouch
 <ol reversed>
 
 <li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
-Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture 2024 (HPCA 2024), Edinburgh, Scotland, United Kingdom, 2-6 March 2024 </i>.
+Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture 2024 (HPCA 2024), Edinburgh, Scotland, United Kingdom, 2-6 March 2024.</i>
 </li>
 
 <li>
-<b>Antonis Psistakis</b>, Panagiotis Peristerakis, Pantelis Xirouchakis, Michalis Gianoudis, Giorgos Kalokairinos, Nikos Chrysos, Fabien Chaix, Vassilis Papaefstathiou, Manolis Katevenis. (2018). &quot;User-level RDMA with IOMMU Support on ARM Platforms&quot;. <i>14th HiPEAC Advanced Computer Architecture and Compilation for Embedded Systems (ACACES), Fiuggi, Italy, 8-14 July 2018</i>.
+<b>Antonis Psistakis</b>, Panagiotis Peristerakis, Pantelis Xirouchakis, Michalis Gianoudis, Giorgos Kalokairinos, Nikos Chrysos, Fabien Chaix, Vassilis Papaefstathiou, Manolis Katevenis. (2018). &quot;User-level RDMA with IOMMU Support on ARM Platforms&quot;. <i>14th HiPEAC Advanced Computer Architecture and Compilation for Embedded Systems (ACACES), Fiuggi, Italy, 8-14 July 2018.</i>
 </li>
 
 </ol>
