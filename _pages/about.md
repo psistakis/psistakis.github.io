@@ -16,14 +16,29 @@ redirect_from:
 
 About me
 ======
-I am PhD Candidate in Computer Science at <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>. I am also a member of the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group led by <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+<p>
+I am a Ph.D. candidate in Computer Science at 
+<a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science (UIUC)</a>, formerly known as the Department of Computer Science, 
+and a member of the 
+<a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> research group, 
+advised by 
+<a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+</p>
 
-My main research interests lie primarily in the areas of Computer Architecture, Distributed Systems, and High-Performance Computing.
+<p>
+My research interests center around Computer Architecture, Distributed Systems, and High-Performance Computing.
+</p>
 
-My alma mater is <a href="https://www.csd.uoc.gr/CSD/index.jsp?lang=en" target="_blank">CSD, University of Crete (UOC)</a>, from which I received both my B.Sc. (2017) and my M.Sc. (2019) degrees in Computer Science. My origin is from Heraklion, Crete, Greece.
+<p>
+I earned both my B.Sc. (2017) and M.Sc. (2019) in Computer Science from the 
+<a href="https://www.csd.uoc.gr/CSD/index.jsp" target="_blank">Computer Science Department at the University of Crete (UOC)</a>. 
+I’m originally from Heraklion, Crete, Greece.
+</p>
 
 Latest news
 ======
+- <span style="color:blue">[Mar 2025] </span> Paper accepted at HotOS 2025.
+- <span style="color:blue">[Feb 2025] </span> Paper accepted at PaPoC 2025 (Lightning Talk).
 - <span style="color:blue">[May 2024] </span> Joined Azure Research-Systems (Microsoft) as a Graduate Research Intern.
 - <span style="color:blue">[Mar 2024] </span> Paper accepted at ISCA 2024.
 - <span style="color:blue">[Oct 2023] </span> Paper accepted at HPCA 2024.

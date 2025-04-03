@@ -58,6 +58,15 @@ Paper: <a href="https://projects.ics.forth.gr/neuronxnet/pdf/dyslexia_BIBE_2019_
 <ol reversed>
 
 <li>
+Yuhong Zhong, Daniel S. Berger, Pantea Zardoshti, Enrique Saurez, <b>Antonis Psistakis</b>, Joshua Fried, Asaf Cidon. (2025). "Beware, PCIe Switches! CXL Pools Are Out to Get You". <i>The ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems 2025 (HotOS XX), Banff, Alberta, Canada, May 14–16, 2025</i>.
+Paper: <a href="https://arxiv.org/pdf/2503.23611" target="_blank">[PDF]</a>.
+</li>
+
+<li>
+<b>Antonis Psistakis</b>, Chloe Alverti, Josep Torrellas. (2025). Lightning Talk. "LeaderlessCXL: Leaderless Distributed Systems in the Era of CXL". <i>12th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC 2025) – in conjunction with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2025 and EuroSys 2025, Rotterdam, Netherlands, March 30 – April 3, 2025</i>.
+</li>
+
+<li>
 Manolis Ploumidis, Nikolaos D Kallimanis, Marios Asiminakis, Nikos Chrysos, Pantelis Xirouchakis, Michalis Gianoudis, Leandros Tzanakis, Nikolaos Dimou, <b>Antonis Psistakis</b>, Panagiotis Peristerakis, Giorgos Kalokairinos, Vassilis Papaefstathiou, Manolis Katevenis. (2019). &quot;Software and Hardware Co-design for Low-Power HPC Platforms&quot;. <i>In the 5th International Workshop on Communication Architectures for HPC, Big Data, Deep Learning and Clouds at Extreme Scale (ExaComm'19) - in conjunction with the International Supercomputing Conference (ISC), Frankfurt, Germany, June 20, 2019</i>.
 </li>
 
