@@ -17,12 +17,13 @@ redirect_from:
 About me
 ======
 <p>
-I am a Ph.D. candidate in Computer Science at 
-<a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science (UIUC)</a>, formerly known as the Department of Computer Science, 
-and a member of the 
-<a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> research group, 
-advised by 
-<a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+  I am a Ph.D. candidate in Computer Science at the 
+  <a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science</a> 
+  (formerly the Department of Computer Science) at the University of Illinois at Urbana-Champaign (UIUC). 
+  I am also a member of the 
+  <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> research group, 
+  advised by 
+  <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
 </p>
 
 <p>
