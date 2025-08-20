@@ -20,6 +20,10 @@ author_profile: true
 
 <ol reversed>
 
+<li> Yuhong Zhong, Daniel S. Berger, Pantea Zardoshti, Enrique Saurez, Jacob Nelson, Dan R. K. Ports, <b>Antonis Psistakis</b>, Joshua Fried, Asaf Cidon. (2025). &quot;Oasis: Pooling PCIe Devices Over CXL to Boost Utilization&quot;. <i>20th ACM Symposium on Operating Systems Principles (SOSP 2025)</i>.
+</li>
+
+
 <li> Apostolos Kokolis, <b>Antonis Psistakis</b>, Benjamin Reidys, Jian Huang, Josep Torrellas. (2024). &quot;HADES: Hardware-Assisted Distributed Transactions in the Age of Fast Networks and SmartNICs&quot;.	<i>51st Annual International Symposium on Computer Architecture 2024 (ISCA 2024)</i>.
 Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/isca24_1.pdf" target="_blank">[PDF]</a>.
 </li>
