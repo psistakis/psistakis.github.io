@@ -38,9 +38,13 @@ I’m originally from Heraklion, Crete, Greece.
 
 Latest news
 ======
+- <span style="color:blue">[July 2025] </span> Paper accepted at SOSP 2025.
+- <span style="color:blue">[May 2025] </span> Selected as one of two winners of the Kenichi Miura Award, Siebel School of Computing and Data Science, UIUC.
+- <span style="color:blue">[May 2025] </span> Selected as one of the Mavis Future Faculty Fellows (MF3) for the 2025-2026 academic year.
+- <span style="color:blue">[May 2025] </span> Joined Microsoft's Systems Planning & Architecture (SPARC), within Azure Hardware Systems and Infrastructure (AHSI) organization as a Graduate Research Intern.
 - <span style="color:blue">[Mar 2025] </span> Paper accepted at HotOS 2025.
 - <span style="color:blue">[Feb 2025] </span> Paper accepted at PaPoC 2025 (Lightning Talk).
-- <span style="color:blue">[May 2024] </span> Joined Azure Research-Systems (Microsoft) as a Graduate Research Intern.
+- <span style="color:blue">[May 2024] </span> Joined Microsoft's Azure Research-Systems group as a Graduate Research Intern.
 - <span style="color:blue">[Mar 2024] </span> Paper accepted at ISCA 2024.
 - <span style="color:blue">[Oct 2023] </span> Paper accepted at HPCA 2024.
 - <span style="color:blue">[Aug 2023] </span> Paper accepted at SysDW 2023 Workshop (SOSP).
@@ -49,5 +53,5 @@ Latest news
 - <span style="color:blue">[May 2022] </span> Paper accepted at TPDS 2022.
 - <span style="color:blue">[Jan 2022] </span> "Distributed Data Persistency" (MICRO 2021) was accepted as IEEE Top Picks in Computer Architecture 2022.
 - <span style="color:blue">[Jul 2021] </span> "Distributed Data Persistency" (DDP) was accepted at <a href="https://www.microarch.org/micro54/" target="_blank">MICRO 2021</a>.
-- <span style="color:blue">[Aug 2020] </span> Joined the <a href="https://cs.illinois.edu/" target="_blank">CS @ ILLINOIS (UIUC)</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group as a PhD student.
+- <span style="color:blue">[Aug 2020] </span> Joined the <a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science, UIUC</a>, and the <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> group as a PhD student.
 - <span style="color:blue">[Jul 2020] </span> "PART: Pinning Avoidance in RDMA Technologies" was accepted at <a href="https://nocs2020.engr.uky.edu/" target="_blank">NOCS 2020</a>.
