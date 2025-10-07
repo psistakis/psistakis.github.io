@@ -13,15 +13,14 @@ redirect_from:
   <img style="vertical-align:right" width="200" height="300" src="/images/under_construction_image.png" alt="">
 </div> -->
 
-<p style="font-size:1.2em; font-weight:500; text-align:center; margin:15px 0;">
+<p style="color:#2c3e50; font-size:1.05em; font-weight:400; text-align:center; margin:10px 0 20px 0;">
   I’m currently in the job market, seeking industry positions.
   <span style="color:#e74c3c;">If your team is hiring PhD graduates, please feel free to reach out.</span>
 </p>
-<hr style="width:60%; margin:auto; border:0; border-top:1px solid #ccc;">
 
-<p style="margin-bottom: 30px;"></p>
-About me
-======
+<hr style="width:55%; margin:auto; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
+
+<h2>About me</h2>
 <p>
   I am a Ph.D. candidate in Computer Science at the 
   <a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science</a> 
