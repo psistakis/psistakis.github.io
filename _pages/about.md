@@ -13,7 +13,13 @@ redirect_from:
   <img style="vertical-align:right" width="200" height="300" src="/images/under_construction_image.png" alt="">
 </div> -->
 
+<p style="font-size:1.2em; font-weight:500; text-align:center; margin:15px 0;">
+  I’m currently in the job market, seeking industry positions.
+  <span style="color:#e74c3c;">If your team is hiring PhD graduates, please feel free to reach out.</span>
+</p>
+<hr style="width:60%; margin:auto; border:0; border-top:1px solid #ccc;">
 
+<p style="margin-bottom: 30px;"></p>
 About me
 ======
 <p>
@@ -38,7 +44,8 @@ I’m originally from Heraklion, Crete, Greece.
 
 Latest news
 ======
-- <span style="color:blue">[July 2025] </span> Paper accepted at SOSP 2025.
+- <span style="color:blue">[Oct 2025] </span> Invited talk at OCP 2025.
+- <span style="color:blue">[Jul 2025] </span> Paper accepted at SOSP 2025.
 - <span style="color:blue">[May 2025] </span> Selected as one of two winners of the Kenichi Miura Award, Siebel School of Computing and Data Science, UIUC.
 - <span style="color:blue">[May 2025] </span> Selected as one of the Mavis Future Faculty Fellows (MF3) for the 2025-2026 academic year.
 - <span style="color:blue">[May 2025] </span> Joined Microsoft's Systems Planning & Architecture (SPARC), within Azure Hardware Systems and Infrastructure (AHSI) organization as a Graduate Research Intern.
