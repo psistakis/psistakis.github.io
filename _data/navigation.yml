@@ -4,6 +4,8 @@ main:
     url: /resume/
   - title: "Publications"
     url: /publications/
+  - title: "Other"
+    url: /other/
   #
   # - title: "Talks"
   #   url: /talks/

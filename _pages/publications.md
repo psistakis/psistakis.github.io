@@ -20,8 +20,13 @@ author_profile: true
 
 <ol reversed>
 
+<li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. </li>
+
+
 <li> Yuhong Zhong, Daniel S. Berger, Pantea Zardoshti, Enrique Saurez, Jacob Nelson, Dan R. K. Ports, <b>Antonis Psistakis</b>, Joshua Fried, Asaf Cidon. (2025). &quot;Oasis: Pooling PCIe Devices Over CXL to Boost Utilization&quot;. <i>20th ACM Symposium on Operating Systems Principles (SOSP 2025)</i>.
+Paper: <a href="https://www.yuhong-zhong.com/papers/Oasis_SOSP25.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1145/3731569.3764812" target="_blank">[DOI]</a>.
 </li>
+
 
 
 <li> Apostolos Kokolis, <b>Antonis Psistakis</b>, Benjamin Reidys, Jian Huang, Josep Torrellas. (2024). &quot;HADES: Hardware-Assisted Distributed Transactions in the Age of Fast Networks and SmartNICs&quot;.	<i>51st Annual International Symposium on Computer Architecture 2024 (ISCA 2024)</i>.
@@ -30,7 +35,6 @@ Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/isca24_1.pdf" target="_
 
 <li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
 Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture 2024 (HPCA 2024)</i>.
-<!-- Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca24_1.pdf" target="_blank">[PDF]</a>. -->
 Paper: <a href="../files/publications/psistakis-hpca24.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/HPCA57654.2024.00076" target="_blank">[DOI]</a>,
 Presentation: <a href="../files/publications/psistakis-hpca24-slides.pdf" target="_blank">[PDF]</a>.
 </li>

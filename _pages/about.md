@@ -35,8 +35,7 @@ redirect_from:
 <p>
   My research focuses on <b>fault-tolerant, high-performance data center systems</b> that leverage 
   <b>Compute Express Link (CXL)</b> for shared-memory and disaggregated architectures. 
-  I am broadly interested in <b>Computer Architecture</b>, <b>Distributed Systems</b>, and 
-  <b>High-Performance Computing</b>, with work spanning consistency and persistency models, 
+  I am broadly interested in <b>Distributed Systems</b>, <b>High-Performance Computing</b>, and <b>Computer Architecture</b> with work spanning consistency and persistency models, 
   as well as <b>RDMA-based communication</b> to enable efficient data transfers, 
   distributed transactions, and recovery mechanisms.
 </p>
@@ -49,16 +48,17 @@ redirect_from:
 
 Latest news
 ======
-- <span style="color:blue">[Oct 2025] </span> Invited talk at OCP 2025.
-- <span style="color:blue">[Jul 2025] </span> Paper accepted at SOSP 2025.
+- <span style="color:blue">[Nov 2025] </span> Paper accepted at <a href="https://conf.researchr.org/home/hpca-2026" target="_blank">HPCA 2026</a>.
+- <span style="color:blue">[Oct 2025] </span> Invited talk at <a href="https://2025ocpglobal.fnvirtual.app/" target="_blank">Open Compute Project (OCP) 2025</a>.
+- <span style="color:blue">[Jul 2025] </span> Paper accepted at <a href="https://sigops.org/s/conferences/sosp/2025/" target="_blank">SOSP 2025</a>. 
 - <span style="color:blue">[May 2025] </span> Selected as one of two winners of the Kenichi Miura Award, Siebel School of Computing and Data Science, UIUC.
-- <span style="color:blue">[May 2025] </span> Selected as one of the Mavis Future Faculty Fellows (MF3) for the 2025-2026 academic year.
+- <span style="color:blue">[May 2025] </span> Selected as one of the <a href="https://mavis.grainger.illinois.edu/" target="_blank">Mavis Future Faculty Fellows (MF3)</a> for the 2025-2026 academic year.
 - <span style="color:blue">[May 2025] </span> Joined Microsoft's Systems Planning & Architecture (SPARC), within Azure Hardware Systems and Infrastructure (AHSI) organization as a Graduate Research Intern.
-- <span style="color:blue">[Mar 2025] </span> Paper accepted at HotOS 2025.
-- <span style="color:blue">[Feb 2025] </span> Paper accepted at PaPoC 2025 (Lightning Talk).
+- <span style="color:blue">[Mar 2025] </span> Paper accepted at <a href="https://sigops.org/s/conferences/hotos/2025/" target="_blank">HotOS 2025</a>.
+- <span style="color:blue">[Feb 2025] </span> Paper accepted at <a href="https://papoc-workshop.github.io/2025/" target="_blank">PaPoC 2025</a> (Lightning Talk).
 - <span style="color:blue">[May 2024] </span> Joined Microsoft's Azure Research-Systems group as a Graduate Research Intern.
-- <span style="color:blue">[Mar 2024] </span> Paper accepted at ISCA 2024.
-- <span style="color:blue">[Oct 2023] </span> Paper accepted at HPCA 2024.
+- <span style="color:blue">[Mar 2024] </span> Paper accepted at <a href="https://iscaconf.org/isca2024/" target="_blank">ISCA 2024</a>.
+- <span style="color:blue">[Oct 2023] </span> Paper accepted at <a href="https://www.hpca-conf.org/2024/program/main.php" target="_blank">HPCA 2024</a>.
 - <span style="color:blue">[Aug 2023] </span> Paper accepted at SysDW 2023 Workshop (SOSP).
 - <span style="color:blue">[Feb 2023] </span> Invited talk at Intel.
 - <span style="color:blue">[May 2022] </span> Joined NVIDIA as a Graduate Intern.
