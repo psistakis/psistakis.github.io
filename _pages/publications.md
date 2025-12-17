@@ -103,12 +103,12 @@ Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE Internatio
 
 <ol reversed>
 
-<li> Bachelor of Science (BSc) Thesis. 2017. &quot;IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment&quot;. 
-<i>Department of Computer Science, University of Crete. </i> <a href="https://arxiv.org/abs/2511.19258" target="_blank">[arxiv.org]</a>
-</li>
-
 <li> Master of Science (MSc) Thesis. 2019. &quot;Handling of Memory Page Faults during Virtual-Address RDMA&quot;. 
 <i>Department of Computer Science, University of Crete. </i> <a href="https://arxiv.org/abs/2511.21018" target="_blank">[arxiv.org]</a>
+</li>
+
+<li> Bachelor of Science (BSc) Thesis. 2017. &quot;IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment&quot;. 
+<i>Department of Computer Science, University of Crete. </i> <a href="https://arxiv.org/abs/2511.19258" target="_blank">[arxiv.org]</a>
 </li>
 
 </ol>
