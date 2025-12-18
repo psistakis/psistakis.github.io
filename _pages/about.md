@@ -21,7 +21,7 @@ redirect_from:
 
 <hr style="width:55%; margin:auto; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
 
-<h2>About me</h2>
+<!-- <h2>About me</h2> -->
 
 <p>
   I am a Ph.D. candidate in Computer Science at the 
