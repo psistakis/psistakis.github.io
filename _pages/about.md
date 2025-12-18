@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+# excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -43,7 +44,7 @@ redirect_from:
 <p>
   I earned both my <b>B.Sc. (2017)</b> and <b>M.Sc. (2019)</b> in Computer Science from the 
   <a href="https://www.csd.uoc.gr/CSD/index.jsp" target="_blank">University of Crete (UOC)</a>, 
-  and I’m originally from <b>Heraklion, Crete, Greece</b>.
+  and I’m originally from Heraklion, Crete, Greece.
 </p>
 
 Latest news
