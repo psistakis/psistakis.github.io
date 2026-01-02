@@ -16,7 +16,7 @@ redirect_from:
 
 <p style="font-size:1em; font-weight:400; text-align:center; margin:10px 0 15px 0; font-style:italic; color: inherit;">
   I'm currently in the job market, seeking industry positions.
-  <span style="font-weight: 500; color:#d35400; text-decoration: underline; text-decoration-color: rgba(74, 158, 255, 0.3);">If your team is hiring PhD graduates, please feel free to reach out.</span>
+  <span style="font-weight: 500; color:#d35400; text-decoration: underline; text-decoration-color: #d35400;">If your team is hiring PhD graduates, please feel free to reach out.</span>
 </p>
 
 <hr style="width:55%; margin:auto; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
