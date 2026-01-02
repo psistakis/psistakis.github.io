@@ -20,7 +20,9 @@ author_profile: true
 
 <ol reversed>
 
-<li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. </li>
+<li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. 
+Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca26_2.pdf" target="_blank">[PDF]</a>.
+</li>
 
 
 <li> Yuhong Zhong, Daniel S. Berger, Pantea Zardoshti, Enrique Saurez, Jacob Nelson, Dan R. K. Ports, <b>Antonis Psistakis</b>, Joshua Fried, Asaf Cidon. (2025). &quot;Oasis: Pooling PCIe Devices Over CXL to Boost Utilization&quot;. <i>20th ACM Symposium on Operating Systems Principles (SOSP 2025)</i>.
