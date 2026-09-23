@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> <b>Antonis Psistakis</b>, Burak Ocalan, Chloe Alverti, Fabien Chaix, Ramnatthan Alagappan, Josep Torrellas. (2026). &quot;DIKTAMO: Extending CXL for Resilience to CPU Failures&quot;. <i>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</i>. 
-Paper: TBD</a>.
+Paper: TBD.
 </li>
 
 <li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. 
