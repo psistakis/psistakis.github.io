@@ -20,6 +20,10 @@ author_profile: true
 
 <ol reversed>
 
+<li> <b>Antonis Psistakis</b>, Burak Ocalan, Chloe Alverti, Fabien Chaix, Ramnatthan Alagappan, Josep Torrellas. (2026). &quot;DIKTAMO: Extending CXL for Resilience to CPU Failures&quot;. <i>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</i>. 
+Paper: TBD</a>.
+</li>
+
 <li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. 
 Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca26_2.pdf" target="_blank">[PDF]</a>.
 </li>
@@ -104,6 +108,10 @@ Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE Internatio
 ## Theses
 
 <ol reversed>
+
+<li> Doctor of Philosophy (PhD) Thesis. 2026. &quot;Reliable Consistency and Persistency Support in Distributed and Shared Memory Systems in Datacenters&quot;. 
+<i>Siebel School of Computing and Data Science, University of Illinois at Urbana-Champaign. </i> <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/PSISTAKIS-THESIS-2026.pdf" target="_blank">[PDF]</a>
+</li>
 
 <li> Master of Science (MSc) Thesis. 2019. &quot;Handling of Memory Page Faults during Virtual-Address RDMA&quot;. 
 <i>Department of Computer Science, University of Crete. </i> <a href="https://arxiv.org/abs/2511.21018" target="_blank">[arxiv.org]</a>

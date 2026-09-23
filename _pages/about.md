@@ -14,16 +14,16 @@ redirect_from:
   <img style="vertical-align:right" width="200" height="300" src="/images/under_construction_image.png" alt="">
 </div> -->
 
-<p style="font-size:1em; font-weight:400; text-align:center; margin:10px 0 15px 0; font-style:italic; color: inherit;">
+<!-- <p style="font-size:1em; font-weight:400; text-align:center; margin:10px 0 15px 0; font-style:italic; color: inherit;">
   I'm currently in the job market, seeking industry positions.
   <span style="font-weight: 500; color:#d35400; text-decoration: underline; text-decoration-color: #d35400;">If your team is hiring PhD graduates, please feel free to reach out.</span>
-</p>
+</p> -->
 
 <hr style="width:55%; margin:auto; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
 
 <!-- <h2>About me</h2> -->
 
-<p>
+<!-- <p>
   I am a Ph.D. candidate in Computer Science at the 
   <a href="https://siebelschool.illinois.edu/" target="_blank">Siebel School of Computing and Data Science</a> 
   (formerly the Department of Computer Science) at the University of Illinois at Urbana-Champaign (UIUC). 
@@ -31,10 +31,14 @@ redirect_from:
   <a href="http://iacoma.cs.uiuc.edu/" target="_blank">i-acoma</a> research group, 
   advised by 
   <a href="http://iacoma.cs.uiuc.edu/josep/torrellas.html" target="_blank">Prof. Josep Torrellas</a>.
+</p> -->
+
+<p>
+  I am a Software Engineer at Google and a member of the RDMA Falcon Datapath team, where our work focuses on efficient RDMA communication, including its impact on end-to-end performance. The team is part of Google Cloud, with work spanning multiple areas across Google, including Platforms Infrastructure Engineering (PIE).
 </p>
 
 <p>
-  My research focuses on <b>fault-tolerant, high-performance data center systems</b> that leverage 
+  My most recent research focuses on <b>fault-tolerant, high-performance data center systems</b> that leverage 
   <b>Compute Express Link (CXL)</b> for shared-memory and disaggregated architectures. 
   I am broadly interested in <b>Distributed Systems</b>, <b>High-Performance Computing</b>, and <b>Computer Architecture</b> with work spanning consistency and persistency models, 
   as well as <b>RDMA-based communication</b> to enable efficient data transfers, 
@@ -42,13 +46,17 @@ redirect_from:
 </p>
 
 <p>
-  I earned both my <b>B.Sc. (2017)</b> and <b>M.Sc. (2019)</b> in Computer Science from the 
-  <a href="https://www.csd.uoc.gr/CSD/index.jsp" target="_blank">University of Crete (UOC)</a>, 
-  and I’m originally from Heraklion, Crete, Greece.
+  I earned my <b>Ph.D. (2026)</b> in Computer Science from the 
+  <a href="https://siebelschool.illinois.edu/" target="_blank">University of Illinois Urbana-Champaign (UIUC)</a>, and both my <b>B.Sc. (2017)</b> and <b>M.Sc. (2019)</b> in Computer Science from the 
+  <a href="https://www.csd.uoc.gr/CSD/index.jsp" target="_blank">University of Crete (UOC)</a>. I’m originally from Heraklion, Crete, Greece.
 </p>
 
 Latest news
 ======
+- <span style="color:blue">[Sep 2026] </span> Started SWE @ Google in Sunnyvale, CA.
+- <span style="color:blue">[Jul 2026] </span> Paper accepted at <a href="https://www.microarch.org/micro59/" target="_blank">MICRO 2026</a>.
+- <span style="color:blue">[Mar 2026] </span> Accepted SWE @ Google offer.
+- <span style="color:blue">[Mar 2026] </span> Successfully defended my PhD thesis (UIUC).
 - <span style="color:blue">[Nov 2025] </span> Paper accepted at <a href="https://conf.researchr.org/home/hpca-2026" target="_blank">HPCA 2026</a>.
 - <span style="color:blue">[Oct 2025] </span> Invited talk at <a href="https://2025ocpglobal.fnvirtual.app/" target="_blank">Open Compute Project (OCP) 2025</a>.
 - <span style="color:blue">[Jul 2025] </span> Paper accepted at <a href="https://sigops.org/s/conferences/sosp/2025/" target="_blank">SOSP 2025</a>. 

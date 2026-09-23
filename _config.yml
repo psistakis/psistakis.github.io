@@ -165,14 +165,14 @@ analytics:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "psistakis-uiuc-june21.jpg"
+  avatar           : "psistakis-sept26.jpg"
   name             : "Antonis Psistakis"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Champaign, IL, USA"
-  employer         :  Siebel School, UIUC
+  bio              : "Software Engineer"
+  location         : "Sunnyvale, CA, USA"
+  employer         : "Google"
   uri              : # URL
-  email            : "psistaki@illinois.edu" 
+  email            : "antonispsistakis@gmail.com" 
 
   # Academic websites
   academia         : # URL
