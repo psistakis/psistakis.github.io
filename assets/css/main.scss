@@ -49,37 +49,29 @@
 
   a {
     display: grid;
+    grid-template: minmax(0, 1fr) / minmax(0, 1fr);
     place-items: center;
-    width: 10rem;
-    max-width: 100%;
-    height: 3.75rem;
-    padding: 0.25rem;
+    flex: 0 1 11rem;
+    min-width: 0;
+    height: 4.75rem;
+    padding: 0 0.75rem;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid var(--global-border-color);
+    border-radius: 0.35rem;
   }
 
   img {
     display: block;
     width: 100%;
-    height: 2.5rem;
+    height: 3.5rem;
     object-fit: contain;
   }
 
-  // The source image has transparent padding above and below the wordmark.
+  // Fit the Azure wordmark by width because its image has transparent vertical padding.
   .resume-logo-azure {
-    transform: scale(1.65);
-  }
-
-  .resume-logo-dark {
-    display: none;
-  }
-
-  html[data-theme="dark"] & {
-    .resume-logo-light {
-      display: none;
-    }
-
-    .resume-logo-dark {
-      display: block;
-    }
+    height: auto;
+    max-height: none;
   }
 }
 
