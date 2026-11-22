@@ -21,11 +21,14 @@ author_profile: true
 <ol reversed>
 
 <li> <b>Antonis Psistakis</b>, Burak Ocalan, Chloe Alverti, Fabien Chaix, Ramnatthan Alagappan, Josep Torrellas. (2026). &quot;DIKTAMO: Extending CXL for Resilience to CPU Failures&quot;. <i>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</i>. 
-Paper: TBD.
+Paper: <a href="../files/publications/psistakis-micro26.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/MICRO67795.2026.00155" target="_blank">[DOI]</a>,
+Presentation: <a href="../files/publications/psistakis-micro26-slides.pdf" target="_blank">[PDF]</a>.
 </li>
 
+
+
 <li> Burak Ocalan, Shashwat Jaiswal, Chloe Alverti, <b>Antonis Psistakis</b>, David Koufaty, Suyash Mahar, Steven Swanson, Josep Torrellas. (2026). &quot;PhasedStore: Supporting High-performance Write-through Cache-coherence Protocols under TSO&quot;. <i>32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</i>. 
-Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca26_2.pdf" target="_blank">[PDF]</a>.
+Paper: <a href="https://iacoma.cs.uiuc.edu/iacoma-papers/hpca26_2.pdf" target="_blank">[PDF]</a>, <a href="https://doi.org/10.1109/HPCA68181.2026.11408509" target="_blank">[DOI]</a>.
 </li>
 
 
@@ -93,6 +96,9 @@ Manolis Ploumidis, <b>Antonis Psistakis</b>, Marios Asiminakis, Pantelis Xirouch
 ## Posters
 
 <ol reversed>
+
+<li> <b>Antonis Psistakis</b>, Burak Ocalan, Chloe Alverti, Fabien Chaix, Ramnatthan Alagappan, Josep Torrellas. (2026). &quot;DIKTAMO: Extending CXL for Resilience to CPU Failures&quot;. <i>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026), Athens, Greece, October 31-November 4, 2026.</i> 
+</li>
 
 <li> <b>Antonis Psistakis</b>, Fabien Chaix, Josep Torrellas. (2024). &quot;MINOS: Distributed Consistency and Persistency
 Protocol Implementation & Offloading to SmartNICs&quot;. <i>30th IEEE International Symposium on High-Performance Computer Architecture 2024 (HPCA 2024), Edinburgh, Scotland, United Kingdom, 2-6 March 2024.</i>
