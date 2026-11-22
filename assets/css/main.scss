@@ -71,29 +71,6 @@
     height: auto;
     max-height: none;
   }
-
-  .resume-logo-dark {
-    display: none;
-  }
-
-  // The ICS-FORTH and CARV artwork is predominantly white.
-  html:not([data-theme="dark"]) & .resume-logo-light-ink {
-    filter: invert(1);
-  }
-
-  html[data-theme="dark"] & {
-    .resume-logo-light {
-      display: none;
-    }
-
-    .resume-logo-dark {
-      display: block;
-    }
-
-    .resume-logo-dark-ink {
-      filter: brightness(1.65) contrast(0.8);
-    }
-  }
 }
 
 .resume {
