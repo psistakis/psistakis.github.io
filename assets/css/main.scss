@@ -56,13 +56,7 @@
     height: 4.75rem;
     padding: 0 0.75rem;
     overflow: hidden;
-    background: #fff;
-    border: 1px solid var(--global-border-color);
-    border-radius: 0.35rem;
-  }
-
-  .resume-logo-dark-background {
-    background: #333;
+    border: 1px solid transparent;
   }
 
   img {
@@ -76,6 +70,29 @@
   .resume-logo-azure {
     height: auto;
     max-height: none;
+  }
+
+  .resume-logo-dark {
+    display: none;
+  }
+
+  // The ICS-FORTH and CARV artwork is predominantly white.
+  html:not([data-theme="dark"]) & .resume-logo-light-ink {
+    filter: invert(1);
+  }
+
+  html[data-theme="dark"] & {
+    .resume-logo-light {
+      display: none;
+    }
+
+    .resume-logo-dark {
+      display: block;
+    }
+
+    .resume-logo-dark-ink {
+      filter: brightness(1.65) contrast(0.8);
+    }
   }
 }
 
