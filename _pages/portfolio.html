@@ -5,141 +5,168 @@ permalink: /resume/
 author_profile: true
 ---
 
-{% include base_path %}
+<div class="resume">
+  <p class="resume-cv">
+    <a href="../files/psistakis_cv_sep26.pdf">Download two-page CV (PDF)</a>
+    <span>Updated September 2026</span>
+  </p>
 
-<!-- {% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %} -->
+  <h2>Professional Experience</h2>
+  <article class="resume-entry">
+    <header>
+      <h3>Software Engineer · <a href="https://www.google.com">Google</a></h3>
+      <span class="resume-date">Sep 2026 – Present</span>
+    </header>
+    <p>Member of the RDMA Falcon Datapath team within Google Cloud and Platforms Infrastructure Engineering (PIE). Focused on efficient RDMA communication and its impact on end-to-end performance.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Research Assistant · <a href="https://iacoma.cs.uiuc.edu/">i-acoma</a></h3>
+      <span class="resume-date">Aug 2020 – May 2026</span>
+    </header>
+    <p class="resume-detail"><a href="https://siebelschool.illinois.edu/">Siebel School of Computing and Data Science</a></p>
+    <p>Researched datacenter consistency and persistency models using sub-microsecond RDMA and SmartNICs. Designed efficient distributed transactions and studied performance and fault tolerance in leaderless and Compute Express Link (CXL)-enabled systems.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Research Intern · <a href="https://www.microsoft.com/en-us/research/">Microsoft</a></h3>
+      <span class="resume-date">May 2025 – Aug 2025</span>
+    </header>
+    <p class="resume-detail">Systems Planning &amp; Architecture (SPARC), Azure Hardware Systems and Infrastructure (AHSI)</p>
+    <p>Explored the functionality and performance of emerging CXL memory pooling and sharing devices.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Research Intern · <a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/">Microsoft</a></h3>
+      <span class="resume-date">May 2024 – Aug 2024</span>
+    </header>
+    <p class="resume-detail">Azure Research – Systems</p>
+    <p>Characterized CXL and explored use cases for memory pooling.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Intern · <a href="https://www.nvidia.com/en-us/">NVIDIA</a></h3>
+      <span class="resume-date">May 2022 – Aug 2022</span>
+    </header>
+    <p>Worked on pre-silicon design and verification. Studied congestion control, fairness mechanisms, and formal analysis for CPU interconnects.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Research Engineer · <a href="https://ics.forth.gr/carv">CARV, ICS-FORTH</a></h3>
+      <span class="resume-date">Dec 2019 – Aug 2020</span>
+    </header>
+    <p>Profiled and extended CARV hardware prototypes, analyzed FPGA-based RDMA engine performance, and optimized page-fault handling during RDMA.</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Trainee · <a href="https://ics.forth.gr/carv">CARV, ICS-FORTH</a> and <a href="https://www.csd.uoc.gr/en">CSD-UoC</a></h3>
+      <span class="resume-date">Jul 2017 – Nov 2019</span>
+    </header>
+    <p>Developed support for handling dynamic page faults during RDMA transfers as part of the M.Sc. thesis.</p>
+  </article>
 
+  <h2>Education</h2>
+  <article class="resume-entry">
+    <header>
+      <h3>Ph.D. in Computer Science</h3>
+      <span class="resume-date">2020 – May 2026</span>
+    </header>
+    <p class="resume-detail"><a href="https://siebelschool.illinois.edu/">Siebel School of Computing and Data Science</a>, <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a></p>
+    <p><strong>Thesis</strong> · Reliable Consistency and Persistency Support in Distributed and Shared Memory Systems in Datacenters</p>
+    <p>Studied efficient consistency and persistency protocols, SmartNIC offloading, and reliability for distributed and shared CXL memory.</p>
+    <p class="resume-detail">Advisor <a href="https://iacoma.cs.uiuc.edu/josep/torrellas.html">Prof. Josep Torrellas</a> · Member of the <a href="https://acecenter.grainger.illinois.edu/">ACE Center for Evolvable Computing</a></p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>M.Sc. in Computer Science</h3>
+      <span class="resume-date">2017 – 2019</span>
+    </header>
+    <p class="resume-detail"><a href="https://www.csd.uoc.gr/en">Department of Computer Science</a>, <a href="https://www.uoc.gr/en/">University of Crete</a></p>
+    <p><strong>Thesis</strong> · Handling of Memory Page Faults during Virtual-Address RDMA</p>
+    <p>Studied how to handle page faults during RDMA transfers while avoiding the pinning of pages to improve memory utilization.</p>
+    <p class="resume-detail">Advisor <a href="https://www.ics.forth.gr/~kateveni">Prof. Manolis G.H. Katevenis</a> · <a href="https://www.ics.forth.gr/carv/">CARV, ICS-FORTH</a> (Jul 2017 – Jul 2019) · <a href="https://exanest.eu">ExaNeSt</a> project</p>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>B.Sc. in Computer Science</h3>
+      <span class="resume-date">2013 – 2017</span>
+    </header>
+    <p class="resume-detail"><a href="https://www.csd.uoc.gr/en">Department of Computer Science</a>, <a href="https://www.uoc.gr/en/">University of Crete</a></p>
+    <p><strong>Thesis</strong> · IOMMU Support for Virtual-Address Remote DMA in an ARMv8 Environment</p>
+    <p>Used ARM’s SMMU on Xilinx Zynq UltraScale+ to translate virtual addresses for RDMA using the process page table instead of planted virtual-to-physical translation mappings.</p>
+    <p class="resume-detail">Advisor <a href="https://www.ics.forth.gr/~kateveni">Prof. Manolis G.H. Katevenis</a> · <a href="https://www.ics.forth.gr/carv/">CARV, ICS-FORTH</a> (Jun 2016 – Dec 2016) · <a href="https://exanest.eu/">ExaNeSt</a> project</p>
+  </article>
 
-Two-page CV can be found <a style="display: inline "href="../files/psistakis_cv_sep26.pdf" >here</a> (Last Update: September 2026).
-
-<h2>Professional Experience</h2>
-<ul>
-<li> Software Engineer (Sep. 2026 - Present), <a style="display: inline "href="https://www.google.com" >Google</a> </li>
-  <ul>
-    <li> 
-      Member of the RDMA Falcon Datapath team within Google Cloud and Platforms Infrastructure Engineering (PIE).
-    </li>
-    <li> 
-      Efficient RDMA communication, including its impact on end-to-end performance. 
-    </li>
-  </ul>
-<li> Research Assistant (Aug. 2020 - May 2026), <a style="display: inline "href="https://siebelschool.illinois.edu/" >i-acoma</a> group and <a style="display: inline "href="https://siebelschool.illinois.edu/" >Siebel School of Computing and Data Science</a> </li>
-  <ul>
-    <li> Research on consistency and persistency models in datacenters, exploiting the sub-microsecond latency of RDMA,
-      utilizing SmartNICs, and designing efficient distributed transactions. Focused on performance and fault tolerance for
-      leaderless and Compute Express Link (CXL)-enabled systems. </li>
-  </ul>
-<li> Graduate Research Intern (May 2025 - August 2025), <a style="display: inline "href="https://www.microsoft.com/en-us/research/" > Microsoft's Systems Planning & Architecture (SPARC), within Azure Hardware Systems and Infrastructure (AHSI) organization.</a> </li>
-<ul>
-  <li> Emerging CXL memory pooling and sharing devices; exploring functionality and performance. </li>
-</ul>
-<li> Graduate Research Intern (May 2024 - August 2024), <a style="display: inline "href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" >Azure Research - Systems (Microsoft)</a> </li>
-<ul>
-  <li> CXL characterization and use case exploration for memory pooling. </li>
-</ul>
-<li> Graduate Intern (May 2022 - August 2022), <a style="display: inline "href="https://www.nvidia.com/en-us/" >NVIDIA</a> </li>
-<ul>
-  <li> Pre-silicon design and verification. Research on congestion control, fairness mechanisms, and formal analysis for CPU interconnects. </li>
-</ul>
-<li> Research Engineer (Dec. 2019 - Aug. 2020), <a style="display: inline "href="https://ics.forth.gr/carv" >CARV, ICS-FORTH</a> </li>
-  <ul>
-    <li> Profiling and expanding the in-house hardware prototypes designed and developed by the CARV laboratory. Detailed performance analysis of the FPGA-based RDMA Engine, as well as optimizing page-fault handling during RDMA. </li>
-  </ul>
-<li> Graduate Trainee (July 2017 - Nov. 2019), <a style="display: inline "href="https://ics.forth.gr/carv" >CARV, ICS-FORTH</a> and <a style="display: inline "href="https://www.csd.uoc.gr/en" >CSD-UoC</a> </li>
-  <ul>
-    <li> Support for handling dynamic page faults during RDMA transfers (MSc thesis). </li>
-  </ul>
-</ul>
-
-<h2>Education</h2>
-<ul>
-<li> PhD in Computer Science (2020 - May 2026), <a style="display: inline "href="https://siebelschool.illinois.edu/" > Siebel School of Computing and Data Science.</a> </li>
-<ul>
-  <li> Ph.D. Thesis: "Reliable Consistency and Persistency Support in Distributed and Shared Memory Systems in Datacenters"
+  <h2>Teaching</h2>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Teaching Assistant · <a href="https://siebelschool.illinois.edu/">Siebel School of Computing and Data Science</a></h3>
+      <span class="resume-date">Jan 2026 – May 2026</span>
+    </header>
     <ul>
-      <li> 
-        Objective: Aimed to develop support for efficient consistency and persistency protocols, and offloading to SmartNICs. Reliability support in distributed and shared CXL memory systems in datacenters. 
-      </li>
-      <li> 
-        Advisor: Prof. <a style="display: inline "href="https://iacoma.cs.uiuc.edu/josep/torrellas.html" >Josep Torrellas </a>
-      </li>
-      <li> 
-        Member of the <a style="display: inline "href="https://acecenter.grainger.illinois.edu/" >ACE Center for Evolvable Computing</a>
-      </li>
+      <li><a href="https://courses.grainger.illinois.edu/cs533/sp2026/home.htm">Parallel Computer Architecture (CS-533)</a> · Spring 2026</li>
     </ul>
-  </li>
-</ul>
-<li> M.Sc. degree in Computer Science (2017 - 2019), <a style="display: inline "href="https://www.csd.uoc.gr/en" >CSD-UoC</a> </li>
-<ul>
-    <li> M.Sc. Thesis: "Handling of Memory Page Faults during Virtual-Address RDMA"
-        <ul>
-            <li> Objective: Aimed to avoid pinning of the page tables of processes, that would hinder the memory utilization. A non-pinned-memory-pages design results to page faults that require handling.
-            </li>
-            <li> Advisor: Prof. <a style="display: inline "href="https://www.ics.forth.gr/~kateveni" >Manolis G.H. Katevenis </a>
-            </li>
-            <li> Took place at <a style="display: inline "href="https://www.ics.forth.gr/carv/" >CARV, ICS-FORTH</a> [July 2017 - July 2019]
-            </li>
-            <li> Member of the <a style="display: inline "href="https://exanest.eu" >ExaNeSt</a> project
-            </li>
-        </ul>
-    </li>
-</ul>
-<li> B.Sc. degree in Computer Science (2013 - 2017), <a style="display: inline "href="https://www.csd.uoc.gr/en" >CSD-UoC</a> </li>
-<ul>
-    <li> B.Sc. Thesis: "IOMMU Support for Virtual-Address Remote DMA in an ARMv8 Environment"
-        <ul>
-            <li> Objective: Effectively utilize ARM's IOMMU (SMMU) on Xilinx Zynq Ultrascale+ in order to support virtual-addressed RDMA transfers. A mechanism was designed to enable seemless translation of virtual-to-physical addresses by utilizing the process page table.
-            </li>
-            <li> Advisor: Prof. <a style="display: inline "href="https://www.ics.forth.gr/~kateveni" >Manolis G.H. Katevenis</a>
-            </li>
-            <li> Took place at <a style="display: inline "href="https://www.ics.forth.gr/carv/" >CARV, ICS-FORTH</a> [June 2016 - Dec. 2016]
-            </li>
-            <li> Part of the <a style="display: inline "href="https://exanest.eu/" >ExaNeSt</a> project
-            </li>
-        </ul>
-    </li>
-</ul>
-</ul>
+  </article>
+  <article class="resume-entry">
+    <header>
+      <h3>Graduate Teaching Assistant · <a href="https://www.csd.uoc.gr/en">CSD-UoC</a></h3>
+      <span class="resume-date">Sep 2017 – Nov 2019</span>
+    </header>
+    <ul>
+      <li><a href="https://www.csd.uoc.gr/~hy120/17f/engl_cont.html">Digital Design (CS-120)</a> · Fall 2017, Fall 2018</li>
+      <li><a href="https://www.csd.uoc.gr/~hy225/18a/engl_cont.html">Computer Organization (CS-225)</a> · Spring 2018, Spring 2019</li>
+    </ul>
+  </article>
 
-<h2>Teaching</h2>
-<ul>
-  <li> Graduate Teaching Assistant (Jan. 2026 - May 2026), <a style="display: inline "href="https://siebelschool.illinois.edu/" >Siebel School of Computing and Data Science.</a> </li>
-  <ul>
-    <li> <a style="display: inline "href="https://courses.grainger.illinois.edu/cs533/sp2026/home.htm" >Parallel Computer Architecture (CS-533)</a>: Spring 2026</li>
-  </ul>
-<li> Graduate Teaching Assistant (Sept. 2017 - Nov. 2019), <a style="display: inline "href="https://www.csd.uoc.gr/en" >CSD-UoC</a> </li>
-  <ul> 
-    <li> <a style="display: inline "href="https://www.csd.uoc.gr/~hy120/17f/engl_cont.html" >Digital Design (CS-120)</a>: Fall 2017, Fall 2018</li>
-  </ul>
-  <ul>
-    <li> <a style="display: inline "href="https://www.csd.uoc.gr/~hy225/18a/engl_cont.html" >Computer Organization (CS-225)</a>: Spring 2018, Spring 2019</li>
-  </ul>
-</ul>
-
-<h2>Affiliations</h2>
-<h3>Current:</h3>
-<div id="banner">
-  <div class="inline-block">
-      <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"> <img src ="../images/google-logo.png" width="300" height="105"></a>
+  <h2>Affiliations</h2>
+  <svg width="0" height="0" style="position: absolute" aria-hidden="true">
+    <defs>
+      <!-- Recover edge opacity from the original GIF's blue and orange inks. -->
+      <filter id="iacoma-logo-transparency" color-interpolation-filters="sRGB">
+        <feColorMatrix in="SourceGraphic" type="matrix"
+          values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  -5 0 5 0 0" result="blue-mask" />
+        <feFlood flood-color="#333366" result="blue" />
+        <feComposite in="blue" in2="blue-mask" operator="in" result="blue-ink" />
+        <feColorMatrix in="SourceGraphic" type="matrix"
+          values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.25 0 -1.25 0 0" result="orange-mask" />
+        <feFlood flood-color="#cc6600" result="orange" />
+        <feComposite in="orange" in2="orange-mask" operator="in" result="orange-ink" />
+        <feMerge>
+          <feMergeNode in="blue-ink" />
+          <feMergeNode in="orange-ink" />
+        </feMerge>
+      </filter>
+    </defs>
+  </svg>
+  <h3>Current</h3>
+  <div class="resume-affiliation-logos">
+    <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+      <img src="../images/google-logo.png" alt="Google">
+    </a>
   </div>
-</div>
-
-<h3>Previously:</h3>
-<div id="banner">
-  <div class="inline-block">
-    <a href="https://siebelschool.illinois.edu/" target="_blank" rel="noopener noreferrer"> <img src ="../images/uiuc-logo.png" width="300" height="105"></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://iacoma.cs.uiuc.edu/" target="_blank" rel="noopener noreferrer"> <img src ="../images/iacoma-logo.png" width="300" height="105" ></a>
-    <a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" target="_blank" rel="noopener noreferrer"> <img src ="../images/Microsoft-Azure-logo.png" width="300" height="105" ></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer"> <img src ="../images/nvidia_logo.png" width="300" height="105" ></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://csd.uoc.gr/en" target="_blank" rel="noopener noreferrer"> <img src ="../images/uoc-logo.png" width="300" height="105"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://ics.forth.gr/" target="_blank" rel="noopener noreferrer"> <img src ="../images/ics-forth-logo.png" width="300" height="105"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://ics.forth.gr/carv" target="_blank" rel="noopener noreferrer"> <img src ="../images/carv-logo.png" width="300" height="105"></a>
+  <h3>Previously</h3>
+  <div class="resume-affiliation-logos">
+    <a href="https://siebelschool.illinois.edu/" target="_blank" rel="noopener noreferrer">
+      <img src="../images/uiuc-logo.png" alt="University of Illinois Urbana-Champaign">
+    </a>
+    <a href="https://iacoma.cs.uiuc.edu/" target="_blank" rel="noopener noreferrer">
+      <img src="../images/iacoma-original.gif" alt="i-acoma" style="filter: url(#iacoma-logo-transparency)">
+    </a>
+    <a href="https://www.microsoft.com/en-us/research/group/azure-research-systems/" target="_blank" rel="noopener noreferrer">
+      <img class="resume-logo-azure" src="../images/Microsoft-Azure-logo.png" alt="Microsoft Azure">
+    </a>
+    <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer">
+      <img class="resume-logo-light" src="../images/nvidia-logo.svg" alt="NVIDIA">
+      <img class="resume-logo-dark" src="../images/nvidia-logo-white.svg" alt="NVIDIA">
+    </a>
+    <a href="https://csd.uoc.gr/en" target="_blank" rel="noopener noreferrer">
+      <img src="../images/uoc-logo.png" alt="University of Crete">
+    </a>
+    <a href="https://ics.forth.gr/" target="_blank" rel="noopener noreferrer">
+      <img src="../images/ics-forth-logo.png" alt="ICS-FORTH">
+    </a>
+    <a href="https://ics.forth.gr/carv" target="_blank" rel="noopener noreferrer">
+      <img src="../images/carv-logo.png" alt="CARV">
+    </a>
   </div>
 </div>
